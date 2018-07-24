@@ -1,4 +1,4 @@
-# AI-deeplearning
+# Center for Artficial Intelligence and Deep learning, established July 2018
 
 Google AI Research Publications Search
 https://ai.google/research/pubs/
