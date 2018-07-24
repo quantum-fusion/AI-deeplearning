@@ -1,5 +1,11 @@
 # AI-deeplearning
 
+Google AI Research Publications Search
+https://ai.google/research/pubs/
+
+Google AI
+https://ai.google
+
 Microsoft AI training certificate Free
 https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/
 
