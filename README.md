@@ -3,6 +3,15 @@
 Microsoft AI training certificate Free
 https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/
 
+Self-critical Sequence Training for Image Captioning, by Vaibhava Goel, Nov 17 2017
+https://arxiv.org/pdf/1612.00563.pdf
+
+IBM advances Watson’s image captioning accuracy, by Vaibhava Goel, December 8th 2016
+https://www.ibm.com/blogs/watson/2016/12/ibm-advances-watsons-image-captioning-accuracy/
+
+Speech Recognition Research by IBM Research, Vaibhava Goel, 1995-2017
+https://dblp.uni-trier.de/pers/hd/g/Goel:Vaibhava
+
 Speech-APIs, see Nuance developer speech API, used by Viv
 https://github.com/ynop/Speech-APIs
 
