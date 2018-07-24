@@ -18,6 +18,9 @@ https://www.isca-speech.org/archive/Interspeech_2017/pdfs/0460.PDF
 Self-critical Sequence Training for Image Captioning, by Vaibhava Goel, Nov 17 2017
 https://arxiv.org/pdf/1612.00563.pdf
 
+Hidden Markov Models, by Stanford Research, August 7 2017
+https://web.stanford.edu/~jurafsky/slp3/9.pdf
+
 IBM advances Watson’s image captioning accuracy, by Vaibhava Goel, December 8th 2016
 https://www.ibm.com/blogs/watson/2016/12/ibm-advances-watsons-image-captioning-accuracy/
 
