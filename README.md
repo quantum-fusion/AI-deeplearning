@@ -9,6 +9,9 @@ https://ai.google
 Microsoft AI training certificate Free
 https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/
 
+A segmental framework for fully-unsupervised large-vocabulary speech recognition, "Zero-Research speech technology", Google Research, by Kamper, Jansen, and Goldwaterm, Sept 16 2017
+https://arxiv.org/pdf/1606.06950.pdf
+
 Embedding-Based Speaker Adaptive Training of Deep Neural Networks, by Vaibhava Goel, August 20 2017
 https://www.isca-speech.org/archive/Interspeech_2017/pdfs/0460.PDF
 
