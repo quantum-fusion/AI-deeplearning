@@ -3,6 +3,9 @@
 Microsoft AI training certificate Free
 https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/
 
+Embedding-Based Speaker Adaptive Training of Deep Neural Networks, by Vaibhava Goel, August 20 2017
+https://www.isca-speech.org/archive/Interspeech_2017/pdfs/0460.PDF
+
 Self-critical Sequence Training for Image Captioning, by Vaibhava Goel, Nov 17 2017
 https://arxiv.org/pdf/1612.00563.pdf
 
