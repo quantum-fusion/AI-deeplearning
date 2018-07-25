@@ -1,13 +1,16 @@
 # Center for Artficial Intelligence and Deep learning, established July 2018
 
+Microsoft AI training certificate Free
+https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/
+
+Microsoft AI School
+https://aischool.microsoft.com/learning-paths/10788KVRTOusuMK6Esomqg?wt.mc_id=AID723408_QSG_SCL_260701&_lrsc=97bfed66-3974-4d63-ab85-4890f64d503b
+
 Google AI Research Publications Search
 https://ai.google/research/pubs/
 
 Google AI
 https://ai.google
-
-Microsoft AI training certificate Free
-https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/
 
 A segmental framework for fully-unsupervised large-vocabulary speech recognition, "Zero-Research speech technology", Google Research, by Kamper, Jansen, and Goldwaterm, Sept 16 2017
 https://arxiv.org/pdf/1606.06950.pdf
