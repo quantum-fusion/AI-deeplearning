@@ -3,8 +3,20 @@
 AI/ML White papers and books 
 https://github.com/quantum-fusion/Papers-Literature-ML-DL-RL-AI
 
+Image Classification on ImageNet, papers with code 
+https://paperswithcode.com/sota/image-classification-on-imagenet?p=res2net-a-new-multi-scale-backbone
+
+The super duper NLP repo (200+)
+https://notebooks.quantumstat.com
+
+Transfer Learning for Image Classification using Torchvision, Pytorch and Python
+https://www.curiousily.com/posts/transfer-learning-for-image-classification-using-torchvision-pytorch-and-python/
+
 Open Computer Vision
 https://www.pyimagesearch.com/start-here/
+
+building rnns is fun with pytorch and google colab 
+https://colab.research.google.com/github/dair-ai/pytorch_notebooks/blob/master/RNN_PT.ipynb
 
 Microsoft AI training certificate Free
 https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/
