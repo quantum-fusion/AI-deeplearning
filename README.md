@@ -1,5 +1,8 @@
 # Center for Artficial Intelligence and Deep learning, established July 2018
 
+AI/ML White papers and books 
+https://github.com/quantum-fusion/Papers-Literature-ML-DL-RL-AI
+
 Microsoft AI training certificate Free
 https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/
 
