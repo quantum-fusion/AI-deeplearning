@@ -18,6 +18,9 @@ https://www.pyimagesearch.com/start-here/
 building rnns is fun with pytorch and google colab 
 https://colab.research.google.com/github/dair-ai/pytorch_notebooks/blob/master/RNN_PT.ipynb
 
+Self-critical Sequence Training for Image Captioning, by Vaibhava Goel, IBM Research 2017
+http://openaccess.thecvf.com/content_cvpr_2017/papers/Rennie_Self-Critical_Sequence_Training_CVPR_2017_paper.pdf
+
 Microsoft AI training certificate Free
 https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/
 
