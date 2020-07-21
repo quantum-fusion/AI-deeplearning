@@ -3,6 +3,9 @@
 AI/ML White papers and books 
 https://github.com/quantum-fusion/Papers-Literature-ML-DL-RL-AI
 
+Open Computer Vision
+https://www.pyimagesearch.com/start-here/
+
 Microsoft AI training certificate Free
 https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/
 
