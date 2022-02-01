@@ -1,5 +1,9 @@
 # Center for Artficial Intelligence and Deep learning, established July 2018
 
+DagsHub Press Release | Open Source Data Science Collaboration - DagsHub
+https://bit.ly/34sM8sQ
+https://dagshub.com/
+
 AI/ML White papers and books 
 https://github.com/quantum-fusion/Papers-Literature-ML-DL-RL-AI
 
