@@ -7,6 +7,9 @@ https://lnkd.in/gHY4YHtS
 AI/ML White papers and books 
 https://github.com/quantum-fusion/Papers-Literature-ML-DL-RL-AI
 
+Curated AI papers with code
+https://github.com/eugeneyan/applied-ml
+
 DagsHub Press Release | Open Source Data Science Collaboration - DagsHub
 https://bit.ly/34sM8sQ
 https://dagshub.com/
