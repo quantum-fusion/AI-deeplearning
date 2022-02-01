@@ -1,11 +1,15 @@
 # Center for Artficial Intelligence and Deep learning, established July 2018
 
-DagsHub Press Release | Open Source Data Science Collaboration - DagsHub
-https://bit.ly/34sM8sQ
-https://dagshub.com/
+Google DeepMind Educational resources in AI/Deep Learning
+A list of educational resources curated by DeepMind Scientists and Engineers for students interested in learning more about artificial intelligence, machine learning, and other related topics.
+https://lnkd.in/gHY4YHtS 
 
 AI/ML White papers and books 
 https://github.com/quantum-fusion/Papers-Literature-ML-DL-RL-AI
+
+DagsHub Press Release | Open Source Data Science Collaboration - DagsHub
+https://bit.ly/34sM8sQ
+https://dagshub.com/
 
 Image Classification on ImageNet, papers with code 
 https://paperswithcode.com/sota/image-classification-on-imagenet?p=res2net-a-new-multi-scale-backbone
